@@ -2,7 +2,18 @@
 
 ## Overview
 
-This project automates the preparation of **Accounts Receivable (AR) outstanding data** received as raw Excel accounting dumps.
+## 🔒 Data & Confidentiality Notice
+
+Important: All datasets included in this repository are completely synthetic and dummy datasets created solely for demonstration, learning, and portfolio purposes. They do not contain, represent, or reproduce any confidential, proprietary, patient, financial, operational, or personally identifiable information from any real healthcare organization.
+
+The terminology, field names, transaction types, and business concepts used in this project are generic examples commonly associated with healthcare Accounts Receivable (AR), insurance billing, collections, and reconciliation workflows. They are intended only to demonstrate the data-processing and analytics approach.
+
+This project does not disclose, expose, or rely upon any confidential company data, patient information, protected health information (PHI), personally identifiable information (PII), or proprietary business logic. The synthetic data has been independently created and is not intended to represent actual records or real-world individuals.
+
+No inference about any healthcare organization, patient, insurer, transaction, or business process should be made from the synthetic data or examples in this repository.
+
+
+## This project automates the preparation of **Accounts Receivable (AR) outstanding data** received as raw Excel accounting dumps.
 
 The pipeline replaces a largely manual Excel-based process with a Python/Pandas workflow that:
 
