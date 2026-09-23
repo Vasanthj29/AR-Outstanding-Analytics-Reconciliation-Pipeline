@@ -15,7 +15,7 @@ No inference about any healthcare organization, patient, insurer, transaction, o
 
 ## This project automates the preparation of **Accounts Receivable (AR) outstanding data** received as raw Excel accounting dumps.
 
-The pipeline replaces a largely manual Excel-based process with a Python/Pandas workflow that:
+## The pipeline replaces a largely manual Excel-based process with a Python/Pandas workflow that:
 
 - Reads raw AR files received **unit-wise or insurance-wise**
 - Consolidates multiple Excel workbooks/sheets into one dataset
